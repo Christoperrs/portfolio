@@ -47,9 +47,10 @@ const Navbar = () => {
         <NavItems>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
-          <NavLink href="#education">Education</NavLink>
+
           <NavLink href="#experience">Experience</NavLink>
           <NavLink href="#projects">Projects</NavLink>
+          <NavLink href="#education">Education</NavLink>
           {/* <NavLink href="#projectsMarket">Research</NavLink> */}
         </NavItems>
 
@@ -90,13 +91,13 @@ const Navbar = () => {
               }}>
               Projects
             </MobileLink>
-            <MobileLink
+            {/* <MobileLink
               href="#projectsMarket"
               onClick={() => {
                 setIsOpen(!isOpen);
               }}>
               Research
-            </MobileLink>
+            </MobileLink> */}
           </MobileMenu>
         )}
       </NavbarContainer>
