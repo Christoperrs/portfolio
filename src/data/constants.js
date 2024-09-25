@@ -379,24 +379,24 @@ export const projects = [
     github: "https://github.com/rishavchanda/Trackify",
     webapp: "https://trackify.duckdns.org",
   },
-  {
-    id: 12,
-    title: "Clinic Website",
-    date: "July 2024",
-    description:
-      "a clinic website that includes doctor schedules and medical services",
-    image: rs,
-    images: [
-      rs,
-      rsB,
-      rsC,
-      // Tambahkan lebih banyak URL gambar sesuai kebutuhan
-    ],
-    tags: ["PHP", "Laravel", "CSS", "Javascript", "HTML", "MySQL"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
-  },
+  // {
+  //   id: 12,
+  //   title: "Clinic Website",
+  //   date: "July 2024",
+  //   description:
+  //     "a clinic website that includes doctor schedules and medical services",
+  //   image: rs,
+  //   images: [
+  //     rs,
+  //     rsB,
+  //     rsC,
+  //     // Tambahkan lebih banyak URL gambar sesuai kebutuhan
+  //   ],
+  //   tags: ["PHP", "Laravel", "CSS", "Javascript", "HTML", "MySQL"],
+  //   category: "web app",
+  //   github: "https://github.com/rishavchanda/Trackify",
+  //   webapp: "https://trackify.duckdns.org",
+  // },
   {
     id: 14,
     title: "Recruitment and Evaluation Development Program",
