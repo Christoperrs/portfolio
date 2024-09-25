@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/portfolio/static/js/main.a0565ffc.js",
+    "main.css": "/portfolio/static/css/main.bb316b6a.css",
+    "main.js": "/portfolio/static/js/main.f4cd36f9.js",
     "static/media/websitefilm.png": "/portfolio/static/media/websitefilm.53a98172b1e4f16593d7.png",
     "static/media/ThesisC.png": "/portfolio/static/media/ThesisC.c55b2dc35700b737df0b.png",
     "static/media/ThesisD.png": "/portfolio/static/media/ThesisD.068b05ad32e5d4d0657a.png",
@@ -67,6 +67,7 @@
     "static/media/rekrutC.jpg": "/portfolio/static/media/rekrutC.ff675fcd075cdf46b880.jpg",
     "static/media/CiroyomE.png": "/portfolio/static/media/CiroyomE.7384f3faa1677343bc20.png",
     "static/media/marketReseach.jpg": "/portfolio/static/media/marketReseach.a2ba4d879bf977d438b2.jpg",
+    "static/media/newArmada.png": "/portfolio/static/media/newArmada.9377368fdd919b0f9dec.png",
     "static/media/c.png": "/portfolio/static/media/c.c15fb5ac4d74681c800b.png",
     "static/media/js.png": "/portfolio/static/media/js.062825dbceed44567e91.png",
     "static/media/sqlserver.svg": "/portfolio/static/media/sqlserver.7e3c2025a2f083448bd8b4aa32b126ea.svg",
@@ -82,11 +83,11 @@
     "static/media/java.svg": "/portfolio/static/media/java.a751bad6c81431ab4dd6fa6632a65540.svg",
     "index.html": "/portfolio/index.html",
     "static/media/firebase.svg": "/portfolio/static/media/firebase.82a35fc0b90d124a8e7333989f767fd3.svg",
-    "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
-    "main.a0565ffc.js.map": "/portfolio/static/js/main.a0565ffc.js.map"
+    "main.bb316b6a.css.map": "/portfolio/static/css/main.bb316b6a.css.map",
+    "main.f4cd36f9.js.map": "/portfolio/static/js/main.f4cd36f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf538fe7.css",
-    "static/js/main.a0565ffc.js"
+    "static/css/main.bb316b6a.css",
+    "static/js/main.f4cd36f9.js"
   ]
 }
