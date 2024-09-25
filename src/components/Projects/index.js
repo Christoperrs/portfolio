@@ -22,6 +22,14 @@ const Projects = ({ openModal, setOpenModal }) => {
         <Desc>
           I have worked on a wide range of projects. From web apps to android
           apps. Here are some of my projects.
+          <br />
+          <br />
+          <h3>
+            <span className="blink">
+              This segment still under development, I will complete it as soon
+              as possible.
+            </span>
+          </h3>
         </Desc>
         <ToggleButtonGroup>
           {toggle === "all" ? (

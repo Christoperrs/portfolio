@@ -25,7 +25,7 @@ import helmet from "../images/helmet.png";
 import toolmaintenance from "../images/toolmaintenance.png";
 import webFilm from "../images/websitefilm.png";
 import freelance from "../images/freelance.png";
-
+import newArmada from "../images/newArmada.png";
 import ciroyomA from "../images/CiroyomA.png";
 import ciroyomB from "../images/CiroyomB.png";
 import ciroyomC from "../images/CiroyomC.png";
@@ -97,7 +97,7 @@ export const Bio = {
     "I am a fresh graduate with experience from Informatics Management at Astra Polytechnic. Have a strong foundation in analysis, problem solving and information systems development. Has successfully completed various application projects including Database Management Systems, Desktop Programming, Web Programming and Mobile Programming. Actively involved in organization and self-development.",
   github: "https://github.com/",
   resume:
-    "https://drive.google.com/file/d/1DrMfOTjZGft2cR70wJjQcfWnKL_6PzAm/view?usp=sharing",
+    "https://drive.google.com/file/d/1eeOpygDXkxvLp4GVzZTjGAkQYCCQczQY/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/christoperrichardsantoso/",
   // twitter: "https://twitter.com/",
   insta: "https://www.instagram.com/",
@@ -225,6 +225,21 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: newArmada,
+    role: "Dies Maintenance Staff",
+    company: "PT Mekar Armada Jaya (New Armada)",
+    date: "Sept 2024 - Present",
+    desc: `
+    - Manage and scheduling check machine for optimization performance.
+
+    - Develop software to improve efficiency and reduce loss time
+
+    - Using software to produce/concepting added value.`,
+    // skills: ["PHP", "MySql", "CodeIgnitor 3", "Javascript", "HTML", "CSS"],
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+  {
+    id: 1,
     img: freelance,
     role: "Web Developer",
     company: "Freelance",
@@ -239,11 +254,11 @@ export const experiences = [
     // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   {
-    id: 1,
+    id: 2,
     img: awi,
     role: "IT Developer & System Analyst Intern",
     company: "PT Akashi Wahana Indonesia",
-    date: "Nov 2023 - Present",
+    date: "Nov 2023 - Sept 2024",
     desc: `
     - Development of Knowledge Management System PT Akashi Wahana Indonesia encompassing a submission system, approval system, digital learning platform, training assessments, and training evaluation mechanisms.
     
@@ -262,7 +277,7 @@ export const experiences = [
     // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   {
-    id: 1,
+    id: 3,
     img: marketResearch,
     role: "Market Researcher",
     company: "Individu",
@@ -272,7 +287,7 @@ export const experiences = [
     // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   {
-    id: 2,
+    id: 4,
     img: pyridam,
     role: "Data Entry (Freelance)",
     company: "PT Pyridam Farma",
@@ -359,7 +374,25 @@ export const projects = [
       rsC,
       // Tambahkan lebih banyak URL gambar sesuai kebutuhan
     ],
-    tags: ["PHP", "CI3", "CSS", "Javascript", "HTML", "SQL SERVER"],
+    tags: ["PHP", "Laravel", "CSS", "Javascript", "HTML", "MySQL"],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://trackify.duckdns.org",
+  },
+  {
+    id: 12,
+    title: "Clinic Website",
+    date: "July 2024",
+    description:
+      "a clinic website that includes doctor schedules and medical services",
+    image: rs,
+    images: [
+      rs,
+      rsB,
+      rsC,
+      // Tambahkan lebih banyak URL gambar sesuai kebutuhan
+    ],
+    tags: ["PHP", "Laravel", "CSS", "Javascript", "HTML", "MySQL"],
     category: "web app",
     github: "https://github.com/rishavchanda/Trackify",
     webapp: "https://trackify.duckdns.org",
@@ -626,7 +659,7 @@ export const projects = [
     title: "Rupiah Movement Prediction",
     date: "March 2024",
     description:
-      "Analysis and forecast of the Indonesian Rupiah's exchange rate fluctuations against other currencies. It involves evaluating factors such as domestic economic indicators (inflation, interest rates, GDP growth), global market conditions, political stability, and external factors like commodity prices and trade balances. The prediction aims to provide insights into potential currency movements and risks in the foreign exchange market. ",
+      "Selling Module for analysis and forecast of the Indonesian Rupiah's exchange rate fluctuations against other currencies. It involves evaluating factors such as domestic economic indicators (inflation, interest rates, GDP growth), global market conditions, political stability, and external factors like commodity prices and trade balances. The prediction aims to provide insights into potential currency movements and risks in the foreign exchange market. ",
     image: rupiah,
     images: [
       rupiah,
@@ -644,7 +677,7 @@ export const projects = [
     title: "ASEAN Economic Outlook",
     date: "Feb 2024",
     description:
-      "The ASEAN Economic Outlook provides an analysis of the economic landscape of the Association of Southeast Asian Nations (ASEAN). It highlights key trends, growth opportunities, and challenges faced by the region's member states. ",
+      "Selling Module fo analysis of the ASEAN Economic Outlook. The ASEAN Economic Outlook provides an analysis of the economic landscape of the Association of Southeast Asian Nations (ASEAN). It highlights key trends, growth opportunities, and challenges faced by the region's member states. ",
     image: asean,
     images: [
       asean,
@@ -662,7 +695,7 @@ export const projects = [
     title: "Crypto Outlook Q1 2024",
     date: "Feb 2024",
     description:
-      "The Crypto Outlook Q1 2024 provides analysis of the cryptocurrency market for the first quarter of the year. It explores key trends, regulatory developments, and technological innovations expected to shape the crypto space. The report focuses on major cryptocurrencies like Bitcoin, Ethereum, and emerging altcoins and analyzing price movements. Additionally, it highlights factors such as institutional adoption, the impact of global economic conditions, and advancements in blockchain technology. The outlook also discusses potential risks and opportunities for investors, predicting how the crypto market could evolve in response to these dynamics. ",
+      "Selling Module for analysis of the Crypto Outlook Q1 2024. The Crypto Outlook Q1 2024 provides analysis of the cryptocurrency market for the first quarter of the year. It explores key trends, regulatory developments, and technological innovations expected to shape the crypto space. The report focuses on major cryptocurrencies like Bitcoin, Ethereum, and emerging altcoins and analyzing price movements. Additionally, it highlights factors such as institutional adoption, the impact of global economic conditions, and advancements in blockchain technology. The outlook also discusses potential risks and opportunities for investors, predicting how the crypto market could evolve in response to these dynamics. ",
     image: cryptoA,
     images: [cryptoA, cryptoB, cryptoC],
     tags: ["Crypto", "Macro Economic"],
@@ -673,9 +706,9 @@ export const projects = [
   {
     id: 18,
     title: "Bull Momentum 2023",
-    date: "Oct 2023 - Dec 2023",
+    date: "Oct 2023",
     description:
-      "The Crypto Outlook Q1 2024 provides analysis of the cryptocurrency market for the first quarter of the year. It explores key trends, regulatory developments, and technological innovations expected to shape the crypto space. The report focuses on major cryptocurrencies like Bitcoin, Ethereum, and emerging altcoins and analyzing price movements. Additionally, it highlights factors such as institutional adoption, the impact of global economic conditions, and advancements in blockchain technology. The outlook also discusses potential risks and opportunities for investors, predicting how the crypto market could evolve in response to these dynamics. ",
+      "Selling Module fo analysis of the Reversal of the Financial Market 2023. This module contain some reason for the reversal of the financial market. It is based on the macroeconomic analysis. ",
     image: bullA,
     images: [bullA, bullB],
     tags: ["ASEAN", "Macro Economic"],
