@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/portfolio/static/js/main.838aa721.js",
+    "main.js": "/portfolio/static/js/main.a0565ffc.js",
     "static/media/websitefilm.png": "/portfolio/static/media/websitefilm.53a98172b1e4f16593d7.png",
     "static/media/ThesisC.png": "/portfolio/static/media/ThesisC.c55b2dc35700b737df0b.png",
     "static/media/ThesisD.png": "/portfolio/static/media/ThesisD.068b05ad32e5d4d0657a.png",
@@ -26,13 +26,16 @@
     "static/media/rupiahC.png": "/portfolio/static/media/rupiahC.72a561b20a6cd96f1a8f.png",
     "static/media/odolF.png": "/portfolio/static/media/odolF.96abeb75220ae61c3f3c.png",
     "static/media/ODOL.png": "/portfolio/static/media/ODOL.dafbd562c14e528f4b9e.png",
+    "static/media/ci.png": "/portfolio/static/media/ci.217fb331faf812263b64.png",
     "static/media/kmsE.png": "/portfolio/static/media/kmsE.58f5204139e6a54ca3f8.png",
     "static/media/odolB.png": "/portfolio/static/media/odolB.1fb33ad34528b31e1889.png",
     "static/media/toolC.png": "/portfolio/static/media/toolC.b3332d56bb33fa0aa7bb.png",
     "static/media/rsC.png": "/portfolio/static/media/rsC.cead514c10acb06dc9de.png",
     "static/media/sap.png": "/portfolio/static/media/sap.4618db9cc59e7146c578.png",
+    "static/media/ThesisE.jpg": "/portfolio/static/media/ThesisE.4b42cb652635c9142843.jpg",
     "static/media/cryptoB.png": "/portfolio/static/media/cryptoB.84a36a931be7ff8cc655.png",
     "static/media/thesisA.png": "/portfolio/static/media/thesisA.fc07072ae39e3a8da756.png",
+    "static/media/CiroyomF.png": "/portfolio/static/media/CiroyomF.189a0dcd4883fb93573d.png",
     "static/media/odolD.png": "/portfolio/static/media/odolD.edbefefae547f335b0aa.png",
     "static/media/wosa.png": "/portfolio/static/media/wosa.7a6543e2f0f5e61b0e1a.png",
     "static/media/toolmaintenance.png": "/portfolio/static/media/toolmaintenance.f09a96fff5dd0cf154e5.png",
@@ -62,6 +65,7 @@
     "static/media/rekrutB.jpg": "/portfolio/static/media/rekrutB.c4ea3802e1ab0c3ca0fd.jpg",
     "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.9cd429090069a189475b.png",
     "static/media/rekrutC.jpg": "/portfolio/static/media/rekrutC.ff675fcd075cdf46b880.jpg",
+    "static/media/CiroyomE.png": "/portfolio/static/media/CiroyomE.7384f3faa1677343bc20.png",
     "static/media/marketReseach.jpg": "/portfolio/static/media/marketReseach.a2ba4d879bf977d438b2.jpg",
     "static/media/c.png": "/portfolio/static/media/c.c15fb5ac4d74681c800b.png",
     "static/media/js.png": "/portfolio/static/media/js.062825dbceed44567e91.png",
@@ -79,10 +83,10 @@
     "index.html": "/portfolio/index.html",
     "static/media/firebase.svg": "/portfolio/static/media/firebase.82a35fc0b90d124a8e7333989f767fd3.svg",
     "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
-    "main.838aa721.js.map": "/portfolio/static/js/main.838aa721.js.map"
+    "main.a0565ffc.js.map": "/portfolio/static/js/main.a0565ffc.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.838aa721.js"
+    "static/js/main.a0565ffc.js"
   ]
 }
