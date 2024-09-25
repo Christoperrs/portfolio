@@ -48,12 +48,12 @@ function App() {
           <HeroSection />
           <Wrapper>
             <Skills />
+            <Education />
+          </Wrapper>
+          <Wrapper>
             <Experience />
           </Wrapper>
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
-          <Wrapper>
-            <Education />
-          </Wrapper>
 
           <Footer />
           {openModal.state && (

@@ -30,10 +30,13 @@ import ciroyomA from "../images/CiroyomA.png";
 import ciroyomB from "../images/CiroyomB.png";
 import ciroyomC from "../images/CiroyomC.png";
 import ciroyomD from "../images/CiroyomD.png";
+import ciroyomE from "../images/CiroyomE.png";
+import ciroyomF from "../images/CiroyomF.png";
 import thesisA from "../images/thesisA.png";
 import thesisB from "../images/thesisB.png";
 import thesisC from "../images/ThesisC.png";
 import thesisD from "../images/ThesisD.png";
+import thesisE from "../images/ThesisE.jpg";
 import rekrutA from "../images/rekrutA.jpg";
 import rekrutB from "../images/rekrutB.jpg";
 import rekrutC from "../images/rekrutC.jpg";
@@ -73,8 +76,9 @@ import rupiahC from "../images/rupiahC.png";
 
 import c from "../images/c.png";
 import php from "../images/php.png";
+import ci from "../images/ci.png";
 import tail from "../images/tail.png";
-
+import laravel from "../images/laravel.png";
 import rs from "../images/rs.png";
 import rsB from "../images/rsB.png";
 import rsC from "../images/rsC.png";
@@ -145,6 +149,14 @@ export const skills = [
       {
         name: "PHP",
         image: php,
+      },
+      {
+        name: "Laravel",
+        image: laravel,
+      },
+      {
+        name: "CodeIgnitor",
+        image: ci,
       },
       {
         name: "Java",
@@ -307,7 +319,7 @@ export const projects = [
     description:
       "Application for a final project campus, which included data management, activity tracking, and data summary features",
     image: thesisA,
-    images: [thesisA, thesisB, thesisC, thesisD],
+    images: [thesisA, thesisB, thesisC, thesisD, thesisE],
     tags: ["PHP", "CI3", "CSS", "Javascript", "HTML", "SQL SERVER"],
     category: "web app",
     github: "https://github.com/rishavchanda/Trackify",
@@ -320,7 +332,15 @@ export const projects = [
     description:
       "Developed a village administration website to streamline and processing document requests for residents. This website include email notification, total report approval/reject, limitations login(By NIK in that area)",
     image: ciroyomA,
-    images: [ciroyomA, ciroyomB, ciroyomC, ciroyomD],
+    images: [
+      ciroyomA,
+      ciroyomB,
+      ciroyomE,
+      ciroyomC,
+      ciroyomD,
+      ciroyomE,
+      ciroyomF,
+    ],
     tags: ["PHP", "CI3", "CSS", "Javascript", "HTML", "SQL SERVER"],
     category: "web app",
     github: "https://github.com/rishavchanda/Trackify",

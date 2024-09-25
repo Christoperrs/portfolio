@@ -34,7 +34,7 @@ const Navbar = () => {
               marginBottom: "20;",
               cursor: "pointer",
             }}>
-            <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+            <DiCssdeck size="3rem" /> <Span>Resume</Span>
           </a>
         </NavLogo>
         <MobileIcon>
@@ -47,10 +47,10 @@ const Navbar = () => {
         <NavItems>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
+          <NavLink href="#education">Education</NavLink>
           <NavLink href="#experience">Experience</NavLink>
           <NavLink href="#projects">Projects</NavLink>
-          <NavLink href="#projectsMarket">Research</NavLink>
-          <NavLink href="#education">Education</NavLink>
+          {/* <NavLink href="#projectsMarket">Research</NavLink> */}
         </NavItems>
 
         {isOpen && (
@@ -68,6 +68,13 @@ const Navbar = () => {
                 setIsOpen(!isOpen);
               }}>
               Skills
+            </MobileLink>
+            <MobileLink
+              href="#education"
+              onClick={() => {
+                setIsOpen(!isOpen);
+              }}>
+              Education
             </MobileLink>
             <MobileLink
               href="#experience"
@@ -89,13 +96,6 @@ const Navbar = () => {
                 setIsOpen(!isOpen);
               }}>
               Research
-            </MobileLink>
-            <MobileLink
-              href="#education"
-              onClick={() => {
-                setIsOpen(!isOpen);
-              }}>
-              Education
             </MobileLink>
           </MobileMenu>
         )}
