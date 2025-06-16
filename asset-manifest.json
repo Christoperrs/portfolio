@@ -1,29 +1,31 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bb316b6a.css",
-    "main.js": "/portfolio/static/js/main.4b389d32.js",
+    "main.js": "/portfolio/static/js/main.45597e58.js",
     "static/media/streamA.png": "/portfolio/static/media/streamA.ec49f0fb938fc40df9ef.png",
     "static/media/dailyA.png": "/portfolio/static/media/dailyA.099e7cdac13e2ac07514.png",
-    "static/media/financeA.png": "/portfolio/static/media/financeA.bf1e707efa6711b9be97.png",
     "static/media/pharmaA.png": "/portfolio/static/media/pharmaA.2e4b0e58f4b9a0f9e604.png",
-    "static/media/preventiveA.png": "/portfolio/static/media/preventiveA.8ae62f8716d79c053d6b.png",
-    "static/media/toolsA.png": "/portfolio/static/media/toolsA.28da1e2c2938e6bf6c28.png",
     "static/media/invenA.png": "/portfolio/static/media/invenA.4bf22b16bd7f858832b5.png",
     "static/media/inventA.png": "/portfolio/static/media/inventA.4bf22b16bd7f858832b5.png",
-    "static/media/ppsA.png": "/portfolio/static/media/ppsA.c90e53b945dc3d0d6bd2.png",
-    "static/media/diesA.png": "/portfolio/static/media/diesA.e14fb2e4e38de9fc73f9.png",
     "static/media/plnA.png": "/portfolio/static/media/plnA.e41491dce58c81f14994.png",
+    "static/media/ppsA.png": "/portfolio/static/media/ppsA.3dea0eac7bbf6dfec177.png",
     "static/media/streamB.png": "/portfolio/static/media/streamB.260dd2844ab664e2b461.png",
     "static/media/websitefilm.png": "/portfolio/static/media/websitefilm.53a98172b1e4f16593d7.png",
     "static/media/streamD.png": "/portfolio/static/media/streamD.7917ba8baf9883dd2b64.png",
     "static/media/ThesisC.png": "/portfolio/static/media/ThesisC.c55b2dc35700b737df0b.png",
     "static/media/pharmaB.png": "/portfolio/static/media/pharmaB.b3a98c5f64eb57c78171.png",
+    "static/media/cafePosA.png": "/portfolio/static/media/cafePosA.a2145279461267310db1.png",
     "static/media/ThesisD.png": "/portfolio/static/media/ThesisD.068b05ad32e5d4d0657a.png",
+    "static/media/financeA.png": "/portfolio/static/media/financeA.b821b847fb16345621ac.png",
+    "static/media/toolsA.png": "/portfolio/static/media/toolsA.8404eebdb3722f3292e9.png",
     "static/media/minesweeper.png": "/portfolio/static/media/minesweeper.8346971f4b2c18cdcee7.png",
+    "static/media/preventiveA.png": "/portfolio/static/media/preventiveA.11519bd1a7bb52a501eb.png",
     "static/media/libE.png": "/portfolio/static/media/libE.f89c35d5fecfa4483886.png",
     "static/media/libB.png": "/portfolio/static/media/libB.858a6acc730e12e3192b.png",
+    "static/media/diesA.png": "/portfolio/static/media/diesA.9d21f2cec8a89a041954.png",
     "static/media/streamC.png": "/portfolio/static/media/streamC.aaa35a05cacf66fef0ba.png",
     "static/media/libA.png": "/portfolio/static/media/libA.2fe432dc095b77d52b87.png",
+    "static/media/cafePosC.png": "/portfolio/static/media/cafePosC.fc5ec1790f8db8799fb2.png",
     "static/media/CiroyomA.png": "/portfolio/static/media/CiroyomA.b24ccf1e09edcbc8147c.png",
     "static/media/presenceC.png": "/portfolio/static/media/presenceC.2fd24737f536c3d55128.png",
     "static/media/pharmaC.png": "/portfolio/static/media/pharmaC.e3bf34d393f33cb769ee.png",
@@ -48,6 +50,7 @@
     "static/media/helmet.png": "/portfolio/static/media/helmet.e23fb182256feba5d23e.png",
     "static/media/diesD.png": "/portfolio/static/media/diesD.143bc184e027cbb83532.png",
     "static/media/odolE.png": "/portfolio/static/media/odolE.5b2d486d56cb91c4524e.png",
+    "static/media/cafePosD.png": "/portfolio/static/media/cafePosD.bba5659aa0c9db3e8ef2.png",
     "static/media/rupiahC.png": "/portfolio/static/media/rupiahC.72a561b20a6cd96f1a8f.png",
     "static/media/dailyB.png": "/portfolio/static/media/dailyB.e90f0102844cf88e5845.png",
     "static/media/odolF.png": "/portfolio/static/media/odolF.96abeb75220ae61c3f3c.png",
@@ -66,6 +69,7 @@
     "static/media/ThesisE.jpg": "/portfolio/static/media/ThesisE.4b42cb652635c9142843.jpg",
     "static/media/presenceA.png": "/portfolio/static/media/presenceA.c94d333458f5d24f4842.png",
     "static/media/cryptoB.png": "/portfolio/static/media/cryptoB.84a36a931be7ff8cc655.png",
+    "static/media/cafePosB.png": "/portfolio/static/media/cafePosB.ce5862ab999899d6eda4.png",
     "static/media/thesisA.png": "/portfolio/static/media/thesisA.fc07072ae39e3a8da756.png",
     "static/media/CiroyomF.png": "/portfolio/static/media/CiroyomF.189a0dcd4883fb93573d.png",
     "static/media/odolD.png": "/portfolio/static/media/odolD.edbefefae547f335b0aa.png",
@@ -154,10 +158,10 @@
     "index.html": "/portfolio/index.html",
     "static/media/firebase.svg": "/portfolio/static/media/firebase.82a35fc0b90d124a8e7333989f767fd3.svg",
     "main.bb316b6a.css.map": "/portfolio/static/css/main.bb316b6a.css.map",
-    "main.4b389d32.js.map": "/portfolio/static/js/main.4b389d32.js.map"
+    "main.45597e58.js.map": "/portfolio/static/js/main.45597e58.js.map"
   },
   "entrypoints": [
     "static/css/main.bb316b6a.css",
-    "static/js/main.4b389d32.js"
+    "static/js/main.45597e58.js"
   ]
 }
