@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bb316b6a.css",
-    "main.js": "/portfolio/static/js/main.6e846f80.js",
+    "main.js": "/portfolio/static/js/main.bc3496da.js",
     "static/media/streamA.png": "/portfolio/static/media/streamA.ec49f0fb938fc40df9ef.png",
     "static/media/dailyA.png": "/portfolio/static/media/dailyA.099e7cdac13e2ac07514.png",
     "static/media/pharmaA.png": "/portfolio/static/media/pharmaA.2e4b0e58f4b9a0f9e604.png",
@@ -17,7 +17,7 @@
     "static/media/cafePosA.png": "/portfolio/static/media/cafePosA.a2145279461267310db1.png",
     "static/media/ThesisD.png": "/portfolio/static/media/ThesisD.068b05ad32e5d4d0657a.png",
     "static/media/financeA.png": "/portfolio/static/media/financeA.b821b847fb16345621ac.png",
-    "static/media/toolsA.png": "/portfolio/static/media/toolsA.8404eebdb3722f3292e9.png",
+    "static/media/toolA.png": "/portfolio/static/media/toolA.8404eebdb3722f3292e9.png",
     "static/media/minesweeper.png": "/portfolio/static/media/minesweeper.8346971f4b2c18cdcee7.png",
     "static/media/preventiveA.png": "/portfolio/static/media/preventiveA.11519bd1a7bb52a501eb.png",
     "static/media/libE.png": "/portfolio/static/media/libE.f89c35d5fecfa4483886.png",
@@ -93,7 +93,6 @@
     "static/media/odolC.png": "/portfolio/static/media/odolC.f178f15a64bac6c1f68a.png",
     "static/media/financeC.png": "/portfolio/static/media/financeC.8afe2b045a4637fac0bf.png",
     "static/media/plnB.png": "/portfolio/static/media/plnB.9028d9a934fca749a6e9.png",
-    "static/media/toolB.png": "/portfolio/static/media/toolB.aee4be99908d8fd7e315.png",
     "static/media/toolsB.png": "/portfolio/static/media/toolsB.aee4be99908d8fd7e315.png",
     "static/media/cryptoA.png": "/portfolio/static/media/cryptoA.d0fd09c6b661a6ba20a7.png",
     "static/media/diktiC.png": "/portfolio/static/media/diktiC.85efd6f658835ff50859.png",
@@ -158,10 +157,10 @@
     "index.html": "/portfolio/index.html",
     "static/media/firebase.svg": "/portfolio/static/media/firebase.82a35fc0b90d124a8e7333989f767fd3.svg",
     "main.bb316b6a.css.map": "/portfolio/static/css/main.bb316b6a.css.map",
-    "main.6e846f80.js.map": "/portfolio/static/js/main.6e846f80.js.map"
+    "main.bc3496da.js.map": "/portfolio/static/js/main.bc3496da.js.map"
   },
   "entrypoints": [
     "static/css/main.bb316b6a.css",
-    "static/js/main.6e846f80.js"
+    "static/js/main.bc3496da.js"
   ]
 }
